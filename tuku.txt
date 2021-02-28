@@ -4,6 +4,35 @@ https://gitee.com/wpcmzjk/tv/raw/master/
 
 
 https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/ziyuan/
+https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk@latest/dist/jquery.min.js
+
+# 推送更新
+https://purge.jsdelivr.net/gh/wpcm780216/pythonzjk/shouji/webPlugNavigation.json
+https://purge.jsdelivr.net/gh/wpcm780216/pythonzjk/shouji/searchUrl.json
+https://purge.jsdelivr.net/gh/wpcm780216/pythonzjk/shouji/sourceNavigation.json
+https://purge.jsdelivr.net/gh/wpcm780216/pythonzjk/shouji/videoNavigation.json
+https://purge.jsdelivr.net/gh/wpcm780216/pythonzjk/shouji/videoHomeCate.json
+https://purge.jsdelivr.net/gh/wpcm780216/pythonzjk/shouji/videoHomeActivity.json
+
+
+https://purge.jsdelivr.net/gh/wpcm780216/pythonzjk/shouji-1/webPlugNavigation.json
+https://purge.jsdelivr.net/gh/wpcm780216/pythonzjk/shouji-1/searchUrl.json
+https://purge.jsdelivr.net/gh/wpcm780216/pythonzjk/shouji-1/sourceNavigation.json
+https://purge.jsdelivr.net/gh/wpcm780216/pythonzjk/shouji-1/videoNavigation.json
+https://purge.jsdelivr.net/gh/wpcm780216/pythonzjk/shouji-1/videoHomeCate.json
+https://purge.jsdelivr.net/gh/wpcm780216/pythonzjk/shouji-1/videoHomeActivity.json
+
+
+
+
+https://purge.jsdelivr.net/gh/wpcm780216/pythonzjk/keting/sourceNavigation.json
+https://purge.jsdelivr.net/gh/wpcm780216/pythonzjk/keting/searchUrl.json
+https://purge.jsdelivr.net/gh/wpcm780216/pythonzjk/keting/sourceNavigation.json
+
+
+
+https://purge.jsdelivr.net/gh/wpcm780216/pythonzjk/ziyuan/1233.m3u
+
 
 
 
