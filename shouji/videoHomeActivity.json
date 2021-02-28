@@ -52,7 +52,7 @@
         "id": 2,
         "name": "电视直播(wpcm)",
         "pic": "https://s3.ax1x.com/2021/02/28/69DFOJ.png",
-        "url": "https://gitee.com/dyanj311/iptv/raw/master/all.m3u",
+        "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/live/new.m3u",
         "color": "11",
         "type": "app://m3u",
         "show": true
@@ -91,7 +91,7 @@
         "url": "https://gitee.com/asfaiptv/asfaiptv/raw/master/2021.m3u",
         "color": "2",
         "type": "app://m3u",
-        "show": true
+        "show": false
       },
       {
         "id": 3,
@@ -100,7 +100,7 @@
         "url": "https://gitee.com/tyy85550424/IPTV/raw/master/IPTV.m3u8",
         "color": "2",
         "type": "app://m3u",
-        "show": true
+        "show": false
       },
       {
         "id": 1,

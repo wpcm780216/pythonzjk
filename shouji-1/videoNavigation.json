@@ -752,27 +752,12 @@
           "pic": "https://s3.ax1x.com/2021/02/28/69BfeA.png",
           "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/live/new.m3u"
          },
-        {
-          "name": "电视频道3(gitee)",
-          "type": "app://m3u",
-          "pic": "https://s3.ax1x.com/2021/02/28/69BfeA.png",
-          "url": "https://gitee.com/aston314/freed/raw/master/tv/live.m3u"
-        },
-        {
-          "name": "电视频道4(tv.sason)",
-          "type": "app://m3u",
-          "pic": "https://s3.ax1x.com/2021/02/28/69BfeA.png",
-          "url": "http://tv.sason.xyz/new.m3u"
-        },
-        {
-          "name": "电视频道5(tv.sason)",
-          "type": "app://m3u",
-          "pic": "https://s3.ax1x.com/2021/02/28/69BfeA.png",
-          "url": "http://tv.sason.xyz/gt.m3u"
-        },
+      
+    
+      
 
         {
-          "name": "wpcm央卫",
+          "name": "wpcm直播（修复2.28）",
           "type": "app://m3u",
           "pic": "https://s3.ax1x.com/2021/02/28/69BfeA.png",
           "url": "https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/ziyuan/1233.m3u"
@@ -789,12 +774,7 @@
           "pic": "https://s3.ax1x.com/2021/02/28/69DFOJ.png",
           "url": "https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/ziyuan/1232.m3u"
         },
-        {
-          "name": "国内外频道（比较全1）",
-          "type": "app://m3u",
-          "pic": "https://s3.ax1x.com/2021/02/28/69DFOJ.png",
-          "url": "https://gitee.com/dyanj311/iptv/raw/master/all.m3u"
-        },
+     
         {
           "name": "国内外频道（比较全2）",
           "type": "app://m3u",
