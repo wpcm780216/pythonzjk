@@ -7,7 +7,7 @@
           "name": "自用备忘录",
           "type": "app://updateInfo",
           "pic": "",
-          "url": "https://gitee.com/wpcmzjk/tv/raw/master/updata.html"
+          "url": "https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/ziyuan/updata.html"
         },
         {
           "name": "小说阅读",
@@ -775,19 +775,19 @@
           "name": "wpcm央卫",
           "type": "app://m3u",
           "pic": "",
-          "url": "https://gitee.com/wpcmzjk/tv/raw/master/1233.m3u"
+          "url": "https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/ziyuan/1233.m3u"
         },
         {
           "name": "wpcm影视",
           "type": "app://m3u",
           "pic": "",
-          "url": "https://gitee.com/wpcmzjk/tv/raw/master/1231.m3u"
+          "url": "https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/ziyuan/1231.m3u"
         },
         {
           "name": "wpcm国际",
           "type": "app://m3u",
           "pic": "",
-          "url": "https://gitee.com/wpcmzjk/tv/raw/master/1232.m3u"
+          "url": "https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/ziyuan/1232.m3u"
         },
         {
           "name": "国内外频道（比较全1）",
@@ -805,37 +805,37 @@
           "name": "NewTv",
           "type": "app://m3u",
           "pic": "",
-          "url": "https://gitee.com/wpcmzjk/tv/raw/master/newtv.m3u"
+          "url": "https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/ziyuan/newtv.m3u"
         },
         {
           "name": "咪咕体育",
           "type": "app://m3u",
           "pic": "",
-          "url": "https://gitee.com/wpcmzjk/tv/raw/master/migu.m3u"
+          "url": "https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/ziyuan/migu.m3u"
         },
         {
           "name": "百世体育",
           "type": "app://m3u",
           "pic": "",
-          "url": "https://gitee.com/wpcmzjk/tv/raw/master/bsty.m3u"
+          "url": "https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/ziyuan/bsty.m3u"
         },
         {
           "name": "SITV",
           "type": "app://m3u",
           "pic": "",
-          "url": "https://gitee.com/wpcmzjk/tv/raw/master/sitv.m3u"
+          "url": "https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/ziyuan/sitv.m3u"
         },
         {
           "name": "IHOT",
           "type": "app://m3u",
           "pic": "",
-          "url": "https://gitee.com/wpcmzjk/tv/raw/master/ihot.m3u"
+          "url": "https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/ziyuan/ihot.m3u"
         },
         {
           "name": "CIBN",
           "type": "app://m3u",
           "pic": "",
-          "url": "https://gitee.com/wpcmzjk/tv/raw/master/cibn.m3u"
+          "url": "https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/ziyuan/cibn.m3u"
         },
         {
           "name": "4K频道",
@@ -859,7 +859,7 @@
           "name": "临时测试",
           "type": "app://m3u",
           "pic": "",
-          "url": "https://gitee.com/wpcmzjk/tv/raw/master/lscs.m3u"
+          "url": "https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/ziyuan/lscs.m3u"
         }
 
 
