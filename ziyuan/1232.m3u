@@ -1,0 +1,251 @@
+自用
+严禁
+分享
+商用
+
+#EXTM3U
+#EXTINF:-1 ,凤凰资讯
+http://112.17.40.45/PLTV/88888888/224/3221226491/index.m3u8
+#EXTINF:-1 ,凤凰中文
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
+
+#EXTINF:-1 ,凤凰香港台
+http://125.89.166.215:80/live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c-1.m3u8
+#EXTINF:-1 ,凤凰电影
+rtmp://ivi.bupt.edu.cn/livetv/fhdy
+#EXTINF:-1 ,翡翠台
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv
+#EXTINF:-1 ,越南和平HBTV
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+#EXTINF:-1 ,越南PTP
+http://113.161.4.48:8080/phuyen/tv.m3u8
+#EXTINF:-1 ,越南
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+#EXTINF:-1 ,音乐电视台
+http://104.237.60.234/live/gabruutv.m3u8?dsjtv.m3u8
+#EXTINF:-1 ,音乐20TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 ,意大利意大利电台
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+#EXTINF:-1 ,耀才财经台
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 ,耀才财经
+http://202.69.69.180:443/webcast/bshdlive-mobile/playlist.m3u8
+#EXTINF:-1 ,阳光卫视
+http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
+#EXTINF:-1 ,亞洲影院
+http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&amp;IASHttpSessionId=SLB4328320190321203540013412&amp;m3u8_level=2&amp;ztecid=10052&amp;virtualDomain=zjhs.live_hls.zte.com&amp;ispcode=3&amp;tid=C3V7K4ET1VFDUJY6C1IASRV55G66&amp;ts=1553493153
+#EXTINF:-1 ,亞洲影院
+http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
+#EXTINF:-1 ,亚洲旅游
+http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+#EXTINF:-1 ,亚美卫视
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+#EXTINF:-1 ,星空卫视
+http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv
+#EXTINF:-1 ,星空卫视
+http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv
+#EXTINF:-1 ,星空卫视
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,星空卫视
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv
+#EXTINF:-1 ,星空卫视
+rtmp://58.200.131.2:1935/livetv/startv
+#EXTINF:-1 ,星空体育
+rtmp://58.200.131.2:1935/livetv/starsports
+#EXTINF:-1 ,新马亚洲新闻
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+#EXTINF:-1 ,西班牙中国环球
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 ,卫视音乐
+rtmp://58.200.131.2:1935/livetv/channelv
+#EXTINF:-1 ,唯心電視
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 ,探索频道
+rtmp://58.200.131.2:1935/livetv/discovery
+#EXTINF:-1 ,儒释道经
+https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 ,日本新闻24小时
+https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 ,日本新闻24
+http://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 ,日本天気予报
+http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 ,日本气象
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 ,日本购物
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+#EXTINF:-1 ,日本TOKYO
+http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
+#EXTINF:-1 ,日本QVC【公众号:手机软件资源局】
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 ,日本lDX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+#EXTINF:-1 ,日本 Ⅰ 全天新闻
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 ,日本 Ⅰ 宝石GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8
+#EXTINF:-1 ,求索频道
+http://125.210.152.18:9090/live/QSKX_1200.m3u8
+#EXTINF:-1 ,歐美影院
+http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&amp;IASHttpSessionId=SLB4328320190321203540013412&amp;m3u8_level=2&amp;ztecid=10037&amp;virtualDomain=zjhs.live_hls.zte.com&amp;ispcode=3&amp;tid=Q894B3E8EEZ3T19UG09L8B03GSWB&amp;ts=1553493266
+#EXTINF:-1 ,歐美影院
+http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
+#EXTINF:-1 ,欧美影院
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv
+#EXTINF:-1 ,墨西哥墨西哥电视
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1 ,明珠台
+http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_
+#EXTINF:-1 ,明珠台
+http://116.199.5.52:8114/00000000/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 ,明珠台
+http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000
+#EXTINF:-1 ,蒙古国lMNB
+http://103.14.38.107:1935/live/mnb.stream/master.m3u8
+#EXTINF:-1 ,美食天府
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA2B7CAU3090C010K77540044IFB84556FPBM3220A5DV1044EZ33519WE22942B42A1&playtoken=ABCDEFGHI&programid=4200000213.m3u8
+#EXTINF:-1 ,美国狗狗宠物
+http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+#EXTINF:-1 ,美国Fox
+http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1 ,龙祥时代
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8?token=BIk2YfurpyjroYsSvl8Ciw&time=1558345786385
+#EXTINF:-1 ,经典电影
+http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
+#EXTINF:-1 ,经典电影
+http://106.54.30.243/dl/YY.php?t=1352216562
+#EXTINF:-1 ,加拿大多伦多16频道
+http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
+#EXTINF:-1 ,加拿大CME 财经一号
+http://69.57.222.151:8082/45/stream.m3u8
+#EXTINF:-1 ,華藏衛視
+http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
+#EXTINF:-1 ,好消息1
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1 ,韩国韩国中央
+http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+#EXTINF:-1 ,韩国阿里郎WORLDworld
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 ,韩国TJB SBS
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 ,韩国MBC频道
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 ,韩国KCTV
+http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
+#EXTINF:-1 ,韩国EBS少儿频道
+http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 ,韩国EBS加一频道
+http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+#EXTINF:-1 ,韩国EBS加二频道
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+#EXTINF:-1 ,韩国EBS儿童频道
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+#EXTINF:-1 ,韩国EBS第一频道
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 ,韩国EBS第一频道
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+#EXTINF:-1 ,韩国EBS第二频道
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+#EXTINF:-1 ,韩国EBSE频道
+http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+#EXTINF:-1 ,韩国BBS佛教广播
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+#EXTINF:-1 ,韩国 Ⅰ KCTV
+http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
+#EXTINF:-1 ,韩国 Ⅰ KCTV
+http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
+#EXTINF:-1 ,国家地理
+rtmp://58.200.131.2:1935/livetv/natlgeo
+#EXTINF:-1 ,功夫台
+http://dlhdl-cdn.zhanqi.tv/zqlive/301200_QSU3A.flv
+#EXTINF:-1 ,港台现场直播2
+http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8
+#EXTINF:-1 ,法国法国新闻
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1 ,法国法国时尚
+http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+#EXTINF:-1 ,法国第五世界台
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1 ,法国24台英语
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 ,法国24台 (英语)
+http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 ,法国24台
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
+#EXTINF:-1 ,俄罗斯IGITV蓝光
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 ,点掌财经
+http://cclive2.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 ,大爱海外
+https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+#EXTINF:-1 ,大爱2
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 ,大爱
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 ,朝鲜中央台
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 ,博斯魅力
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 ,百事通台
+http://112.17.40.145/PLTV/88888888/224/3221226596/index.m3u8
+#EXTINF:-1 ,澳视综艺
+http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 ,澳视资讯
+http://61.244.22.5/ch5/info_ch5.live/master.m3u8
+#EXTINF:-1 ,澳视卫星台
+http://61.244.22.4/ch3/ch3.live/master.m3u8
+#EXTINF:-1 ,澳视卫星
+http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1 ,澳视葡文台
+http://61.244.22.4/ch2/ch2.live/master.m3u8
+#EXTINF:-1 ,爱美食2
+http://112.17.40.132/wh7f454c46tw2314161267_-1052198109/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/index.m3u8
+#EXTINF:-1 ,爱美食
+http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,Ytv
+http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/chunklist.m3u8
+#EXTINF:-1 ,TVB 无线明珠
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_
+#EXTINF:-1 ,NHK华语视界3
+https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+#EXTINF:-1 ,MY3
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+#EXTINF:-1 ,MTV音乐【公众号:手机软件资源局】
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv
+#EXTINF:-1 ,MTV 亚洲音乐
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv
+#EXTINF:-1 ,Luxury
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1 ,KOREA YTN
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+#EXTINF:-1 ,JOJ频道
+http://nn2.joj.sk/hls/joj-540.m3u8
+#EXTINF:-1 ,HKS卫视高清
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 ,GOOD TV2
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 ,FTVLIVE
+http://218.236.58.185:1935/FTVLIVE_MOBILE/Stream_mobile/playlist.m3u8
+#EXTINF:-1 ,Darcizzle电视
+http://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 ,Channel V
+rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+#EXTINF:-1 ,CGTN
+http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=14&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_
+#EXTINF:-1 ,CGNTV日本
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/chunklist_w564190259.m3u8
+#EXTINF:-1 ,CGNTV韩国
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist_w1604760015.m3u8
+#EXTINF:-1 ,CBS新闻
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 ,Atameken
+http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/chunklist.m3u8
+#EXTINF:-1 ,ArirangTV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 ,Arirang TV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
