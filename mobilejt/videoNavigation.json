@@ -743,122 +743,122 @@
         {
           "name": "电视频道1（github）",
           "type": "app://m3u",
-          "pic": "",
+          "pic": "https://imgtu.com/i/69BfeA",
           "url": "https://iptv-org.github.io/iptv/languages/zho.m3u"
         },
         {
           "name": "电视频道2(gitee)",
           "type": "app://m3u",
-          "pic": "",
+          "pic": "https://imgtu.com/i/69BfeA",
           "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/live/new.m3u"
          },
         {
           "name": "电视频道3(gitee)",
           "type": "app://m3u",
-          "pic": "",
+          "pic": "https://imgtu.com/i/69BfeA",
           "url": "https://gitee.com/aston314/freed/raw/master/tv/live.m3u"
         },
         {
           "name": "电视频道4(tv.sason)",
           "type": "app://m3u",
-          "pic": "",
+          "pic": "https://imgtu.com/i/69BfeA",
           "url": "http://tv.sason.xyz/new.m3u"
         },
         {
           "name": "电视频道5(tv.sason)",
           "type": "app://m3u",
-          "pic": "",
+          "pic": "https://imgtu.com/i/69BfeA",
           "url": "http://tv.sason.xyz/gt.m3u"
         },
 
         {
           "name": "wpcm央卫",
           "type": "app://m3u",
-          "pic": "",
+          "pic": "https://imgtu.com/i/69BfeA",
           "url": "https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/ziyuan/1233.m3u"
         },
         {
           "name": "wpcm影视",
           "type": "app://m3u",
-          "pic": "",
+          "pic": "https://imgtu.com/i/69BfeA",
           "url": "https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/ziyuan/1231.m3u"
         },
         {
           "name": "wpcm国际",
           "type": "app://m3u",
-          "pic": "",
+          "pic": "https://imgtu.com/i/69DFOJ",
           "url": "https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/ziyuan/1232.m3u"
         },
         {
           "name": "国内外频道（比较全1）",
           "type": "app://m3u",
-          "pic": "",
+          "pic": "https://imgtu.com/i/69DFOJ",
           "url": "https://gitee.com/dyanj311/iptv/raw/master/all.m3u"
         },
         {
           "name": "国内外频道（比较全2）",
           "type": "app://m3u",
-          "pic": "",
+          "pic": "https://imgtu.com/i/69DFOJ",
           "url": "https://gitee.com/asfaiptv/asfaiptv/raw/master/all.m3u"
         },
         {
           "name": "NewTv",
           "type": "app://m3u",
-          "pic": "",
+          "pic": "https://imgtu.com/i/69BfeA",
           "url": "https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/ziyuan/newtv.m3u"
         },
         {
           "name": "咪咕体育",
           "type": "app://m3u",
-          "pic": "",
+          "pic": "https://imgtu.com/i/69BfeA",
           "url": "https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/ziyuan/migu.m3u"
         },
         {
           "name": "百世体育",
           "type": "app://m3u",
-          "pic": "",
+          "pic": "https://imgtu.com/i/69BfeA",
           "url": "https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/ziyuan/bsty.m3u"
         },
         {
           "name": "SITV",
           "type": "app://m3u",
-          "pic": "",
+          "pic": "https://imgtu.com/i/69BfeA",
           "url": "https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/ziyuan/sitv.m3u"
         },
         {
           "name": "IHOT",
           "type": "app://m3u",
-          "pic": "",
+          "pic": "https://imgtu.com/i/69BfeA",
           "url": "https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/ziyuan/ihot.m3u"
         },
         {
           "name": "CIBN",
           "type": "app://m3u",
-          "pic": "",
+          "pic": "https://imgtu.com/i/69BfeA",
           "url": "https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/ziyuan/cibn.m3u"
         },
         {
           "name": "4K频道",
           "type": "app://m3u",
-          "pic": "",
+          "pic": "https://imgtu.com/i/69BfeA",
           "url": "https://gitee.com/dyanj311/iptv/raw/master/4K%E9%A2%91%E9%81%93.m3u"
         },
         {
           "name": "IPTV",
           "type": "app://m3u",
-          "pic": "",
+          "pic": "https://imgtu.com/i/69BfeA",
           "url": "https://gitee.com/dyanj311/iptv/raw/master/IPTV.m3u"
         },
         {
           "name": "高清影视",
           "type": "app://m3u",
-          "pic": "",
+          "pic": "https://imgtu.com/i/69BfeA",
           "url": "https://gitee.com/dyanj311/iptv/raw/master/%E9%AB%98%E6%B8%85%E5%BD%B1%E8%A7%86.m3u"
         },
          {
           "name": "临时测试",
           "type": "app://m3u",
-          "pic": "",
+          "pic": "https://imgtu.com/i/69BfeA",
           "url": "https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/ziyuan/lscs.m3u"
         }
 
