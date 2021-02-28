@@ -51,7 +51,7 @@
       {
         "id": 2,
         "name": "电视直播(wpcm)",
-        "pic": "https://imgtu.com/i/69DFOJ",
+        "pic": "https://s3.ax1x.com/2021/02/28/69DFOJ.png",
         "url": "https://gitee.com/dyanj311/iptv/raw/master/all.m3u",
         "color": "11",
         "type": "app://m3u",
@@ -78,7 +78,7 @@
       {
         "id": 3,
         "name": "世界直播(wpcm)",
-        "pic": "https://imgtu.com/i/69DFOJ",
+        "pic": "https://s3.ax1x.com/2021/02/28/69DFOJ.png",
         "url": "https://gitee.com/asfaiptv/asfaiptv/raw/master/all.m3u",
         "color": "1",
         "type": "app://m3u",
@@ -87,7 +87,7 @@
       {
         "id": 3,
         "name": "(测试)",
-        "pic": "https://imgtu.com/i/69DFOJ",
+        "pic": "https://s3.ax1x.com/2021/02/28/69DFOJ.png",
         "url": "https://gitee.com/asfaiptv/asfaiptv/raw/master/2021.m3u",
         "color": "2",
         "type": "app://m3u",
@@ -96,7 +96,7 @@
       {
         "id": 3,
         "name": "day(wpcm)",
-        "pic": "https://imgtu.com/i/69DFOJ",
+        "pic": "https://s3.ax1x.com/2021/02/28/69DFOJ.png",
         "url": "https://gitee.com/tyy85550424/IPTV/raw/master/IPTV.m3u8",
         "color": "2",
         "type": "app://m3u",
@@ -105,7 +105,7 @@
       {
         "id": 1,
         "name": "",
-        "pic": "https://imgtu.com/i/69DFOJ",
+        "pic": "https://s3.ax1x.com/2021/02/28/69DFOJ.png",
         "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/html/jd_activity.html",
         "color": "11",
         "type": "app://updateInfo",
