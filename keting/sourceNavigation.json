@@ -5,9 +5,9 @@
 
     
     {
-      "name": "央卫(选IKJ解码)",
+      "name": "国内(wpcm3.2)",
       "pic": "https://s3.ax1x.com/2021/02/28/69BfeA.png",
-      "url": "https://gitee.com/aston314/freed/raw/master/tv/live.m3u",
+      "url": "https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/ziyuan/1233.m3u",
       "type": "m3u",
       "subTitle": "自用，严禁分享，商用",
       "click": true,
