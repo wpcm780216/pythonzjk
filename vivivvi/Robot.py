@@ -341,7 +341,7 @@ if __name__ == '__main__':
     # 订阅地址 多个地址用;隔开
     sub_url = input('请输入订阅地址(多个地址用;隔开):')
     # 输出路径
-    output_path = './output.yaml'
+    output_path = './output3.yaml'
     # 规则策略
     #config_url = 'https://cdn.jsdelivr.net/gh/Celeter/convert2clash@master/config.yaml'
     config_url = 'https://github.com/wpcm780216/Clash/raw/master/custom.clash.yaml'
