@@ -18,3 +18,4 @@ clash
 
 ping
 
+https://github.com/wpcm780216/pythonzjk/raw/master/vivivvi/proxies
