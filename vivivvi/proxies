@@ -468,7 +468,3 @@ proxies:
 - {name: 🇸🇬 新加坡(欢迎订阅Youtube破解资源君), server: 54.169.218.39, port: 443, type: vmess, uuid: 37932e47-dc63-4ac2-9848-5c5c63827fd6, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false}
 - {name: 🇸🇬 新加坡(欢迎订阅Youtube破解资源君) 2, server: 54.169.218.39, port: 443, type: vmess, uuid: 6f2f4a95-b275-4ce3-ae73-c19bdb3172f9, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false}
 - {name: 🇸🇬 新加坡(欢迎订阅Youtube破解资源君) 3, server: 54.255.209.238, port: 443, type: vmess, uuid: 6f2f4a95-b275-4ce3-ae73-c19bdb3172f9, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false}
-
-
-
-
