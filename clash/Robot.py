@@ -228,7 +228,7 @@ def get_proxies(urls):
     # 请求订阅地址
     for url in url_list:
         print(url)
-        response = requests.get(url, headers=headers, timeout=900).text
+        response = requests.get(url, headers=headers, timeout=9000).text
         try:
             raw = base64.b64decode(response)
         except Exception as r:
