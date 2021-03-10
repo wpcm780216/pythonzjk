@@ -1,4 +1,5 @@
 proxies:
+- {name: trojan, server: v1.itstudy.cloud, port: 443, type: trojan, password: 1c8fa419, sni: v1.itstudy.cloud, skip-cert-verify: false}
 - {"name":"🇨🇳CN_151 | 9.53Mb","server":"222.186.20.24","type":"ssr","country":"🇨🇳CN","port":41122,"password":"http://cc.ax/","cipher":"aes-256-cfb","protocol":"auth_aes128_md5","protocol-param":"100350:541PIH","obfs":"plain","obfs-param":"data.bilibili.com/fe5c2100350"}
 - {"name":"🇨🇳CN_152 |45.65Mb","server":"222.186.20.85","type":"ssr","country":"🇨🇳CN","port":41227,"password":"http://cc.ax/","cipher":"aes-256-cfb","protocol":"auth_aes128_md5","protocol-param":"100350:541PIH","obfs":"plain","obfs-param":"data.bilibili.com/fe5c2100350"}
 - {"name":"🇨🇳CN_153 |10.67Mb","server":"117.28.243.253","type":"ssr","country":"🇨🇳CN","port":8333,"password":"passfw2xs4e!","cipher":"rc4-md5","protocol":"origin","obfs":"plain"}
