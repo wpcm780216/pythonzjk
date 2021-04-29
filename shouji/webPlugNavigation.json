@@ -88,7 +88,7 @@
             "hasImgUrlPrefix": true,
             "hasUrlPrefix": false,
             "imgAttr": "src",
-            "imgCss": "img",
+            "imgCss": "img.qy-mod-cover",
             "imgIndex": 0,
             "isDescAttr": false,
             "isImgAttr": true,
