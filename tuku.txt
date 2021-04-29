@@ -7,7 +7,7 @@ https://gitee.com/wpcmzjk/tv/raw/master/
 
 
 
-https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/ziyuan/
+https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/ziyuan/34.txt
 https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk@latest/dist/jquery.min.js
 
 # 推送更新
@@ -35,14 +35,20 @@ https://purge.jsdelivr.net/gh/wpcm780216/pythonzjk/keting/sourceNavigation.json
 
 
 
+https://purge.jsdelivr.net/gh/wpcm780216/pythonzjk/vivivvi/wpcm5.yaml
+https://purge.jsdelivr.net/gh/wpcm780216/pythonzjk/vivivvi/wpcm.yaml
+
+
 https://purge.jsdelivr.net/gh/wpcm780216/pythonzjk/ziyuan/1233.m3u
 
+链接
 
-
-
+https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/vivivvi/wpcm5.yaml
+https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/keting/
+https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/shouji/
+https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/shouji-1/
 https://cdn.jsdelivr.net/gh/wpcm780216/pythonzjk/mobile/@version/file
-https://purge.jsdelivr.net/gh/wpcm780216/pythonzjk/mobile/
-https://github.com/wpcm780216/pythonzjk/raw/master/mobile/
+
 
 
 
